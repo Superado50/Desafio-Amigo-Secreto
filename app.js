@@ -19,10 +19,25 @@ function agregarAmigo() {
 ingresoAmigos.push(nuevoAmigo);
 //se limpia el contenido de la lista para evitar duplicados
 seleccionaLista.innerHTML = '';
-//se recorre el array y se crean las filas para cada nombre
+/*se recorre el array y se crean las filas para cada nombre
+se usa el forEach porque es más eficiente para recorrer un array. Además se hace uso de
+una función tipo flecha =>{} (es anónima), la función recibe un parámetro que en este caso
+se denomina "nombre" y "nombre" recibe el valor de la posición del array en cada vuelta 
+para que la función tipo flecha pueda representarlo uno a uno
+El método forEach, siempre parte con el nombre del array que va a recorrer y recibe una
+función como argumento y la función debe tener por lo menos 1 parámetro en forma obligatoria
+su sintáxis es esta: array.forEach(function(parámetro){}); */
 ingresoAmigos.forEach(nombre => {
+    //esta línea crea cada iteración una nueva fila en HTML
     let li = document.createElement('li');
+    /*en esta línea se le pasa a la etiqueta li recién creada, el valor de la 
+    posición en la que se encuentre la iteración del forEach*/
     li.textContent = nombre;
+    /*en esta línea el método appendChild(), crea un hijo a un nodo padre
+    en este caso, a la variable sellecionLista que en realidad hace referencia 
+    a la lista ul con id = 'listaAmigos' que está escrita en el código HTML
+    y le dice que cree un nuevo elemento con etiqueta <li> y con el valor
+    que corresponda a cada iteración que gamos en el forEach*/
     seleccionaLista.appendChild(li);
 });
 
