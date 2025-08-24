@@ -77,7 +77,7 @@ function sortearAmigo() {
     listaAmigosPos.style.display = 'none';
 
     //Muestra el resultado del nombre sorteado, a la lista id=resultado le entrega una fila con el valor.
-    resultadoPos.innerHTML = `<li>el amigo secreto es: ${valorObtenido}</li>`;
+    resultadoPos.innerHTML = `<li>El amigo secreto sorteado es: ${valorObtenido}</li>`;
     
 }
 
