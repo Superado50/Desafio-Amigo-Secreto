@@ -47,32 +47,40 @@ function agregarAmigo() {
 }
  
 function sortearAmigo() {
-    // 1. Se debe validar que el array no esté vacío.
+    //validación del array que no esté vacío.
     if (ingresoAmigos.length === 0) {
-        alert("¡No hay amigos en la lista para sortear! Agrega al menos uno.");
+        alert("No hay amigos en tu lista, agrega al menos uno.");
         return; // Detiene la ejecución de la función si no hay participantes
     }
-
-    // 2. Genera un índice aleatorio usando Math.random() y Math.floor().
+    /*esta variable se encarga de obtener en forma aleatoria, el valor del
+    índice numérico que corresponda a cada posición de los datos guardados que va del 0
+    hasta el ultimo número de los datos ingresados*/
     let indiceAleatorio = Math.floor(Math.random() * ingresoAmigos.length);
 
-    // 3. Utiliza el índice aleatorio para acceder al dato correspondiente en el array.
+    /*Se utiliza número almacenado en la variable indiceAleatorio
+    para pasárselo a otra variable para asignarle la posición dentro del array ingresoAlumnos[]
+    y que almacene el dato de esta posición*/
     let valorObtenido = ingresoAmigos[indiceAleatorio];
+    
+    /*Se crean las variables que harán las referencias a los elementos del HTML
+    que se van a modificar.*/
+    
+    /*esta variable se crea para poder ocultar la lista que muestra 
+    los amigos que se van ingresando*/ 
+    let listaAmigosPos = document.getElementById('listaAmigos');
+    
+    /*esta variable se usa para acceder al código HTNML y poder 
+    representar el valor almacenado en la variable valorObtenido*/
+    let resultadoPos = document.getElementById('resultado');
+    
+    //En esta línea, la lista <ul> id="listaAmigos" debe desaparece
+    listaAmigosPos.style.display = 'none';
 
-    // 4. Obtiene las referencias a los elementos del HTML que se van a modificar.
-    let listaAmigosUI = document.getElementById('listaAmigos');
-    let resultadoUI = document.getElementById('resultado');
-    let botonSorteo = document.querySelector('.button-draw');
-
-    // 5. La lista <ul> id="listaAmigos" debe desaparecer.
-    listaAmigosUI.style.display = 'none';
-
-    // 6. Muestra el resultado utilizando document.getElementById() y innerHTML.
-    resultadoUI.innerHTML = `<li>el amigo secreto es: ${valorObtenido}</li>`;
+    //Muestra el resultado del nombre sorteado, a la lista id=resultado le entrega una fila con el valor.
+    resultadoPos.innerHTML = `<li>el amigo secreto es: ${valorObtenido}</li>`;
 
     // 7. Se debe deshabilitar el botón que origina esta acción.
-    /*botonSorteo.disabled = false;
-    botonSorteo.textContent = "Sorteo Finalizado";*/
+    
 }
 
 
