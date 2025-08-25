@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center"> Proyecto: desafío de juego Amigo Secreto, dentro del programa de capacitación G9 ONE.</h1>
 
-<br>
+
 
 # Indice de Contenidos
 
@@ -14,7 +14,7 @@
 - [Revisar el Protecto](#revisar-el-proyecto)
 
 - [Desarrollador](#desarrollador)
-<br>
+
 
 ## Descripción del Proyecto
 
@@ -22,7 +22,7 @@
 El proyecto consiste en la creación de una aplicación web que permita a un usuario poder ingresar nombres de personas con la finalidad de sortear en forma aleatoria a uno de los nombres ingresados y de esta forma poder asignar al amigo secreto al jugador.
   
 </p>
-<br>
+
 
 ## Funcionamiento
 
@@ -43,7 +43,7 @@ Una vez que los nombres necesarios han sido ingresados, se debe hacer click en e
 <p align="left"><img width="500" height="250" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" /></p>
 
 ###
-<br>
+
 
 ## Lenguajes Utilizados
 
@@ -51,14 +51,14 @@ Los lenguajes de programación que se utilizaron en este juego son: `Javascript`
 
 
 <img width="500" height="189" alt="pnge2gg" src="https://github.com/user-attachments/assets/93a45b3b-2317-4939-81e9-08b25c055d65" />
-<br>
-<br>
+
+
 
 ## Revisar el Proyecto
 
 Para revisar [el proyecto, puede acceder a través del siguiente enlace](https://github.com/Superado50/Desafio-Amigo-Secreto)
-<br>
-<br>
+
+
 
 ## Desarrollador
 
