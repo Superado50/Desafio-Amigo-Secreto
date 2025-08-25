@@ -1,10 +1,12 @@
-<p align = "left">
-  <img width="650" height="254" alt="juego (Copy)" src="https://github.com/user-attachments/assets/1cd02de3-54f8-47bc-8871-f3e8129e483f" />
+<p align = "center">
+  <img width="500" height="200" alt="juego (Copy)" src="https://github.com/user-attachments/assets/1cd02de3-54f8-47bc-8871-f3e8129e483f" />
 </p>
+<hr>
+<h1 align="center"> Proyecto: desafío de juego Amigo Secreto, dentro del programa de capacitación G9 ONE.</h1>
 
-<h1> Proyecto: desafío de juego Amigo Secreto, dentro del programa de capacitación G9 ONE.</h1>
+<br>
 
-### Indice de Contenidos
+# Indice de Contenidos
 
 - [Descripción del Proyecto](#descripcion-del-proyecto)
   
@@ -15,40 +17,60 @@
 - [Revisar el Protecto](#revisar-el-proyecto)
 
 - [Desarrollador](#desarrollador)
-
+<br>
 ## Descripción del Proyecto
 
 <p align="justify">
 El proyecto consiste en la creación de una aplicación web que permita a un usuario poder ingresar nombres de personas con la finalidad de sortear en forma aleatoria a uno de los nombres ingresados y de esta forma poder asignar al amigo secreto al jugador.
   
 </p>
+<br>
 
 ## Funcionamiento
 
 El juego comienza con un cuadro de texto que espera que se ingrese un nombre de una persona y se debe hacer click en el botón denominado "Añadir"
 
-:heavy_check_mark: Funcionalidad 1
-<p align="left"><img width="818" height="242" alt="imagen" src="https://github.com/user-attachments/assets/9f68712c-7f02-46cc-8ab5-08bb0e3b7bd4" /></p>
+:heavy_check_mark: `Funcionalidad 1`
+<p align="left"><img width="600" height="242" alt="imagen" src="https://github.com/user-attachments/assets/9f68712c-7f02-46cc-8ab5-08bb0e3b7bd4" /></p>
 
 Los nombres ingresados, se irán mostrando en forma de lista en pantalla
 
-:heavy_check_mark: Funcionalidad 2
-<p align="left"><img width="842" height="370" alt="imagen" src="https://github.com/user-attachments/assets/188a9dfa-fd0e-4ac6-b374-6e99dad8abe7" /></p>
+:heavy_check_mark: `Funcionalidad 2`
+<p align="left"><img width="500" height="250" alt="imagen" src="https://github.com/user-attachments/assets/188a9dfa-fd0e-4ac6-b374-6e99dad8abe7" /></p>
 
 
 Una vez que los nombres necesarios han sido ingresados, se debe hacer click en el botón denominado "Sortear amigo" y el nombre seleccionado en forma aleatoria será representado en pantalla.
 
-<h3>:heavy_check_mark: Funcionalidad 3</h3>
-<p align="left"><img width="797" height="363" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" /></p>
+:heavy_check_mark: `Funcionalidad 3`
+<p align="left"><img width="500" height="250" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" /></p>
+
+:heavy_check_mark: `Ejemplo de uso`
+
+<div>
+
+  ![Mi video](https://github.com/user-attachments/assets/7aa4d900-7a8a-4f93-a7bb-06c88cc539d4)
+
+</div>
 
 ###
+<br>
 
 ## Lenguajes Utilizados
 
-Los lenguajes de programación que se utilizaron en este juego son: Javascript y CSS, además del lenguaje de marcado HTML
+Los lenguajes de programación que se utilizaron en este juego son: `Javascript` y `CSS`, además del lenguaje de marcado `HTML`
+
+
+<img width="500" height="189" alt="pnge2gg" src="https://github.com/user-attachments/assets/93a45b3b-2317-4939-81e9-08b25c055d65" />
+<br>
+<br>
 
 ## Revisar el Proyecto
 
-Para revisar [el proyecto, puede acceder a través del siguiente enlace:]()
+Para revisar [el proyecto, puede acceder a través del siguiente enlace](https://github.com/Superado50/Desafio-Amigo-Secreto)
+<br>
+<br>
 
 ## Desarrollador
+
+| [<img src="https://avatars.githubusercontent.com/u/101726808?v=4" width=115><br><sub>Hernán Vidal Parra</sub>](https://github.com/Superado50)
+| :---:
