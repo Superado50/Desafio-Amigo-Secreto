@@ -41,14 +41,6 @@ Una vez que los nombres necesarios han sido ingresados, se debe hacer click en e
 :heavy_check_mark: `Funcionalidad 3`
 <p align="left"><img width="500" height="250" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" /></p>
 
-:heavy_check_mark: `Ejemplo de uso`
-
-<div>
-
- 
-
-</div>
-
 ###
 <br>
 
