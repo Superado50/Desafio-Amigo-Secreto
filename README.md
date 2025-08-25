@@ -1,4 +1,4 @@
-<p align = "center">
+<p align = "left">
   <img width="650" height="254" alt="juego (Copy)" src="https://github.com/user-attachments/assets/1cd02de3-54f8-47bc-8871-f3e8129e483f" />
 </p>
 
@@ -27,17 +27,18 @@ El proyecto consiste en la creación de una aplicación web que permita a un usu
 
 El juego comienza con un cuadro de texto que espera que se ingrese un nombre de una persona y se debe hacer click en el botón denominado "Añadir"
 
-<img width="818" height="242" alt="imagen" src="https://github.com/user-attachments/assets/9f68712c-7f02-46cc-8ab5-08bb0e3b7bd4" />
+<p align="left"><img width="818" height="242" alt="imagen" src="https://github.com/user-attachments/assets/9f68712c-7f02-46cc-8ab5-08bb0e3b7bd4" /></p>
+
 :heavy_check_mark: `Funcionalidad 1:`
 
 Los nombres ingresados, se irán mostrando en forma de lista en pantalla
 
-<img width="842" height="370" alt="imagen" src="https://github.com/user-attachments/assets/188a9dfa-fd0e-4ac6-b374-6e99dad8abe7" />
+<p align="left"><img width="842" height="370" alt="imagen" src="https://github.com/user-attachments/assets/188a9dfa-fd0e-4ac6-b374-6e99dad8abe7" /></p>
 :heavy_check_mark: `Funcionalidad 2:`
 
 Una vez que los nombres necesarios han sido ingresados, se debe hacer click en el botón denominado "Sortear amigo" y el nombre seleccionado en forma aleatoria será representado en pantalla.
 
-<img width="797" height="363" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" />
+<p align="left"><img width="797" height="363" alt="imagen" src="https://github.com/user-attachments/assets/a350be9f-6d2f-4816-b6d6-a862d85daa4c" /></p>
 :heavy_check_mark: `Funcionalidad 3:`
 
 ### Lenguajes Utilizados
