@@ -45,7 +45,7 @@ Una vez que los nombres necesarios han sido ingresados, se debe hacer click en e
 
 <div>
 
-  ![Mi video](https://github.com/user-attachments/assets/7aa4d900-7a8a-4f93-a7bb-06c88cc539d4)
+ 
 
 </div>
 
