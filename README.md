@@ -1,9 +1,10 @@
-<img width="995" height="343" alt="imagen" src="https://github.com/user-attachments/assets/74bf3613-2838-4095-8982-42d413822672" />
+<img width="650" height="254" alt="juego (Copy)" src="https://github.com/user-attachments/assets/1cd02de3-54f8-47bc-8871-f3e8129e483f" />
 ### Proyecto: desafío de juego Amigo Secreto, dentro del programa de capacitación G9 ONE.
 
 ### Indice de Contenidos
 - [Descripción del Proyecto](#descripcion-del-proyecto)
 -[Funcionamiento](#funcionamiento)
+
 -[Lenguajes Utilizados](#lenguajes-utilizados)
 -[Revisar el Protecto](#revisar-el-proyecto)
 -[Desarrollador](#desarrollador)
